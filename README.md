@@ -101,3 +101,6 @@ void PrintArray(string[] array)
 ```
 Результат вывода в терминал:
 ![Alt text](image_2023-11-28_19-36-16.png)
+
+Скриншот коммитов для подтверждения
+![Alt text](image.png)
