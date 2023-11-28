@@ -25,7 +25,7 @@
 2. Блок схема алгоритма:
 
 ![Diogram](FlowchartDiagram.PNG)
-Код программы:
+## Код программы:
 ```cs
 Commands();
 string[] array = new string[] {};
