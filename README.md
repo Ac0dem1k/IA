@@ -24,4 +24,4 @@
 1. Вы находитесь в созданном репозитории 'IA'.
 2. Блок схема алгоритма:
 
-> ![Block-diagram](Flowchart Diagram.PNG)
+![Block-diagram](Flowchart Diagram.PNG)
